@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 ###
-<h2 align="left">Hi 👋! My name is  Harsimranpreet Kaur and I'm a Web Developer from Jalandhar, Punjab.</h2>
+<h2 align="left">Hi 👋! My name is  Harsimranpreet Kaur and I'm a Full Stack Developer</h2>
 
 ###
 
